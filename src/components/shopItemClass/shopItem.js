@@ -1,7 +1,7 @@
 import {Component} from 'react';
 import '../../css/main.css'
 
-class ShopItemFunc extends Component {
+class ShopItemClass extends Component {
 	constructor(props) {
 		super(props);
 	
@@ -30,4 +30,4 @@ class ShopItemFunc extends Component {
 	}
 }
 
-export default ShopItemFunc;
+export default ShopItemClass;
